@@ -3,7 +3,7 @@
 
 An interactive, high-end web application built with React to provide accurate, data-driven salary estimates for Artificial Intelligence and Machine Learning (AI/ML) roles across multiple countries and experience tiers.
 
----
+
 
 ## 🌟 Features
 
