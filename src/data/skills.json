@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Python",
+    "category": "Programming",
+    "demandLevel": "High",
+    "scarcityLevel": "Low",
+    "maxImpactPercent": 5
+  },
+  {
+    "name": "PyTorch",
+    "category": "Machine Learning",
+    "demandLevel": "High",
+    "scarcityLevel": "Medium",
+    "maxImpactPercent": 8
+  },
+  {
+    "name": "RAG",
+    "category": "Generative AI",
+    "demandLevel": "Very High",
+    "scarcityLevel": "High",
+    "maxImpactPercent": 15
+  },
+  {
+    "name": "SQL",
+    "category": "Data",
+    "demandLevel": "High",
+    "scarcityLevel": "Low",
+    "maxImpactPercent": 5
+  },
+  {
+    "name": "Docker",
+    "category": "Cloud/MLOps",
+    "demandLevel": "Medium",
+    "scarcityLevel": "Medium",
+    "maxImpactPercent": 6
+  }
+]

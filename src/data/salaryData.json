@@ -1,0 +1,24 @@
+[
+  {
+    "country": "IN",
+    "jobRole": "Machine Learning Engineer",
+    "experienceBand": "3-5 years",
+    "minimumSalary": 850000,
+    "medianSalary": 1110000,
+    "maximumSalary": 1420000,
+    "source": "Tech Market Data",
+    "sourceDate": "2026-08",
+    "confidence": "High"
+  },
+  {
+    "country": "US",
+    "jobRole": "Machine Learning Engineer",
+    "experienceBand": "3-5 years",
+    "minimumSalary": 115000,
+    "medianSalary": 135000,
+    "maximumSalary": 160000,
+    "source": "Tech Market Data",
+    "sourceDate": "2026-08",
+    "confidence": "Medium"
+  }
+]

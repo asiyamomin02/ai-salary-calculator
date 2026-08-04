@@ -1,0 +1,12 @@
+[
+  { "code": "IN", "name": "India", "currency": "INR", "symbol": "₹" },
+  { "code": "US", "name": "United States", "currency": "USD", "symbol": "$" },
+  { "code": "GB", "name": "United Kingdom", "currency": "GBP", "symbol": "£" },
+  { "code": "CA", "name": "Canada", "currency": "CAD", "symbol": "$" },
+  { "code": "AU", "name": "Australia", "currency": "AUD", "symbol": "$" },
+  { "code": "DE", "name": "Germany", "currency": "EUR", "symbol": "€" },
+  { "code": "FR", "name": "France", "currency": "EUR", "symbol": "€" },
+  { "code": "NL", "name": "Netherlands", "currency": "EUR", "symbol": "€" },
+  { "code": "SG", "name": "Singapore", "currency": "SGD", "symbol": "$" },
+  { "code": "AE", "name": "UAE", "currency": "AED", "symbol": "د.إ" }
+]

@@ -1,0 +1,27 @@
+{
+  "AI_ML": [
+    "Machine Learning Engineer",
+    "AI Engineer",
+    "AI/ML Engineer",
+    "Generative AI Engineer",
+    "LLM Engineer",
+    "NLP Engineer",
+    "Computer Vision Engineer",
+    "MLOps Engineer",
+    "AI Research Scientist"
+  ],
+  "Data": [
+    "Data Analyst",
+    "Data Scientist",
+    "Data Engineer",
+    "ML Data Scientist",
+    "Business Intelligence Analyst"
+  ],
+  "Software_AI_Adjacent": [
+    "Python Developer",
+    "Backend Developer",
+    "Software Engineer",
+    "AI Product Manager",
+    "AI Solutions Architect"
+  ]
+}
