@@ -1,4 +1,3 @@
-
 AI Salary Calculator
 An interactive, professional web application built with React to provide accurate, data-driven salary estimates for Artificial Intelligence, Machine Learning, and Tech roles across multiple countries and experience tiers.
 
