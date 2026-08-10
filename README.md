@@ -1,36 +1,33 @@
 
-# 🤖 AI Salary Calculator
+AI Salary Calculator
+An interactive, professional web application built with React to provide accurate, data-driven salary estimates for Artificial Intelligence, Machine Learning, and Tech roles across multiple countries and experience tiers.
 
-An interactive, high-end web application built with React to provide accurate, data-driven salary estimates for Artificial Intelligence and Machine Learning (AI/ML) roles across multiple countries and experience tiers.
+🌟 Key Features
+Multi-Country & Currency Support: Estimates localized salaries with automatic currency formatting (e.g., ₹ for India, $ for US) across global markets.
 
+Dynamic Role & Skill Matching: Categorized job titles with role-specific technical skills (Software, GenAI, Data Analytics, and Leadership).
 
+Market Position Gauge: Interactive horizontal calibration gauge visualizing minimum, median, average, maximum, and top 10% salary benchmarks.
 
-## 🌟 Features
+Free Learning Hub & Resume Prep: Integrated free course recommendations with direct links, ATS resume keywords, and top technical interview questions tailored to each role.
 
-- **Multi-Country & Currency Support:** Estimates localized salaries based on global markets (India, United States, UK, Canada, Australia, etc.).
-- **Dynamic Role & Skill Matching:** Tailored tech-stack recommendations and multipliers based on specific AI/ML job titles (e.g., LLM Engineer, MLOps Engineer, Data Scientist).
-- **Experience Bands:** Comprehensive experience tracking ranging from Entry-Level (`0–1 years`) to Principal/Expert (`12+ years`).
-- **Smart Form Automation:** Automatic country-code mapping for WhatsApp inputs based on the selected location.
-- **Robust Fallback Logic:** Built-in calculation engine (`salaryEngine.js`) to handle edge cases and provide accurate projections even if a specific dataset entry is missing.
-- **Sleek & Responsive UI:** Clean, minimalist design with custom styling and smooth component transitions.
+Career Path Explorer & Interactive Modals: Strategic career progression paths with interactive popup modals showing step-by-step milestones, timelines, and target salaries.
 
----
+Sleek & Professional UI: Modern minimal design using custom design tokens, Space Grotesk/Inter typography, responsive flex/grid layouts, and smooth fade-up animations.
 
-## 🛠️ Tech Stack
+🛠️ Tech Stack
+Frontend: React.js
 
-- **Frontend:** React.js (Vite)
-- **Styling:** Inline CSS / Modern Flexbox & Grid UI Standards
-- **Data Engine:** Custom JavaScript calculation engine with JSON datasets
+Styling: Custom inline design tokens & modern CSS Flexbox/Grid
 
----
+Data Engine: Custom JavaScript calculation engine with structured JSON datasets
 
-## 🚀 Getting Started & Local Installation
+🚀 Getting Started & Local Installation
+To run this project locally on your machine, follow these steps:
 
-To run this project locally on your machine, follow these simple steps:
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/asiyamomin02/ai-salary-calculator.git](https://github.com/asiyamomin02/ai-salary-calculator.git)
+1. Clone the Repository
+Bash
+git clone https://github.com/asiyamomin02/ai-salary-calculator.git
 cd ai-salary-calculator
 2. Install Dependencies
 Make sure you have Node.js installed, then run:
@@ -47,21 +44,27 @@ Plaintext
 ai-salary-calculator/
 ├── public/                # Static assets
 ├── src/
-│   ├── data/              # JSON files for roles, skills, and base salaries
+│   ├── data/              # Role-specific datasets and learning resources (learningData.js)
 │   ├── services/          # Core calculation logic (salaryEngine.js)
-│   ├── components/        # React components (SalarySimulator, SalaryResult, etc.)
+│   ├── components/        # React components (SalarySimulator.jsx, SalaryResult.jsx)
 │   ├── App.jsx            # Main App container
 │   ├── main.jsx           # Entry point
 │   └── index.css          # Global styles
 ├── package.json
 └── README.md
 💡 Usage
-Select your target Location (country code and currency adapt automatically).
+Select your target Location and Job Title (categorized by domain).
 
-Choose your Job Title to unlock role-specific technical skills.
+Choose your Years of Experience level and select relevant Key Skills.
 
-Select your Years of Experience band and preferred technical Key Skills (up to 5).
+Fill in additional parameters like College Background, Current Industry, Email, and optional WhatsApp Number.
 
-Fill in optional details like College Background, Current Industry, Email, and WhatsApp Number.
+Click Calculate Estimated Salary to view:
 
-Click Calculate Estimated Salary to view detailed salary breakdowns, market confidence metrics, and career projections.
+Your precise salary range and median breakdown.
+
+An interactive Market Position Gauge.
+
+Curated Free Learning Resources with direct links, ATS Resume Keywords, and Interview Questions.
+
+The Career Path Explorer featuring interactive modal popups with step-by-step promotion milestones.
